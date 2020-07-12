@@ -1,0 +1,72 @@
+﻿region,YEAR,Average of predicted_temp
+ Alsace.xlsx,2021,12.74747469
+ Anjou.xlsx,2021,9.932715972
+ Bandol.xlsx,2021,15.24960926
+ Beaujolais.xlsx,2021,21.1907248
+ Beaujolais-Villages.xlsx,2021,11.11288547
+ Beaune.xlsx,2021,8.933677493
+ Bordeaux Blanc.xlsx,2021,19.85279369
+ Bordeaux Rosé.xlsx,2021,12.36602829
+ Bordeaux Supérieur.xlsx,2021,9.658063383
+ Bordeaux.xlsx,2021,13.22989691
+ Bourgogne.xlsx,2021,9.277891003
+ Bourgueil.xlsx,2021,11.19715796
+ Brouilly.xlsx,2021,10.79503783
+ Cahors.xlsx,2021,12.83431747
+ Chablis.xlsx,2021,10.76273748
+ Chambolle-Musigny.xlsx,2021,10.11833698
+ Chassagne-Montrachet.xlsx,2021,10.11581182
+ Châteauneuf-du-Pape.xlsx,2021,12.63389758
+ Chiroubles.xlsx,2021,11.07264837
+ Chorey-lès-Beaune.xlsx,2021,10.77500244
+ Clos de Vougeot.xlsx,2021,9.847115087
+ Corton.xlsx,2021,8.740718978
+ Corton-Charlemagne.xlsx,2021,9.530592385
+ Costières de Nîmes.xlsx,2021,14.82005261
+ Côte de Brouilly.xlsx,2021,10.93719136
+ Coteaux du Giennois.xlsx,2021,11.28466938
+ Côtes de Gascogne.xlsx,2021,10.48608493
+ Côtes de Provence.xlsx,2021,15.98630564
+ Echézeaux.xlsx,2021,9.942770337
+ Entre-Deux-Mers.xlsx,2021,3.746030615
+ Fleurie.xlsx,2021,11.1291473
+ Gaillac.xlsx,2021,12.51386127
+ Gevrey-Chambertin.xlsx,2021,9.636767284
+ Givry.xlsx,2021,10.9768778
+ Haut-Médoc.xlsx,2021,9.875423982
+ Juliénas.xlsx,2021,10.96484087
+ Jurançon Sec.xlsx,2021,12.04503164
+ Lalande de Pomerol.xlsx,2021,12.77707344
+ Listrac-Médoc.xlsx,2021,13.10679984
+ Mâcon-Villages.xlsx,2021,8.842351167
+ Marsannay.xlsx,2021,9.786566099
+ Mediterranée.xlsx,2021,26.72455338
+ Médoc.xlsx,2021,12.40322297
+ Menetou-Salon.xlsx,2021,11.72658503
+ Mercurey.xlsx,2021,11.35518729
+ Meursault.xlsx,2021,10.55740883
+ Montagny.xlsx,2021,10.54321752
+ Morgon.xlsx,2021,10.77525591
+ Moulin-à-Vent.xlsx,2021,11.03356632
+ Moulis-en-Médoc.xlsx,2021,13.16188379
+ Pauillac.xlsx,2021,12.80867118
+ Pays d'Oc.xlsx,2021,13.64217421
+ Pomerol.xlsx,2021,12.95573764
+ Pommard.xlsx,2021,9.584305348
+ Pouilly-Fuissé.xlsx,2021,11.06766916
+ Provence.xlsx,2021,8.35683314
+ Puligny-Montrachet.xlsx,2021,10.60986273
+ Quincy.xlsx,2021,8.669102271
+ Reuilly.xlsx,2021,9.540016044
+ Rhône.xlsx,2021,11.20065908
+ Saint-Aubin.xlsx,2021,10.67064232
+ Saint-Émilion.xlsx,2021,12.597426
+ Saint-Estèphe.xlsx,2021,11.15084221
+ Saint-Julien.xlsx,2021,9.897888584
+ Saint-Véran.xlsx,2021,4.646105562
+ Sancerre.xlsx,2021,11.67345326
+ Saumur-Champigny.xlsx,2021,11.4737015
+ Sauternes.xlsx,2021,12.94937647
+ Savigny-lès-Beaune.xlsx,2021,9.83180691
+ Tavel.xlsx,2021,12.92692647
+Alsace_final_prediction.xlsx,2021,9.079773997
